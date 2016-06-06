@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_item_linear_recycler_view"
+            android:checked="true"
+            android:title="LINEAR_RECYCLERVIEW" />
+        <item
+            android:id="@+id/navigation_item_grid_recycler_view"
+            android:checked="true"
+            android:title="GRID_RECYCLERVIEW" />
+        <item
+            android:id="@+id/navigation_item_auto_refresh"
+            android:checked="true"
+            android:title="AUTO_REFRESH" />
+        <item
+            android:id="@+id/navigation_item_text_view"
+            android:title="TEXTVIEW" />
+        <item
+            android:id="@+id/navigation_item_webview"
+            android:title="WEBVIEW" />
+        <item
+            android:id="@+id/navigation_item_scrollview"
+            android:title="SCROLLVIEW" />
+        <item
+            android:id="@+id/navigation_item_default"
+            android:checked="true"
+            android:title="默认样式" />
+        <item
+            android:id="@+id/navigation_item_jd"
+            android:title="京东STYLE" />
+        <item
+            android:id="@+id/navigation_item_mt"
+            android:title="美团STYLE" />
+
+    </group>
+</menu>
