@@ -4,6 +4,6 @@
 ![](https://github.com/yaozhukuang/PullReFresh/blob/master/PullToRefresh/1231.gif)
 
 
-thanks:
+thanks:<br>
 [PullToRefreshAndLoad](https://github.com/jingchenUSTC/PullToRefreshAndLoad)<br>
 [Paginate](https://github.com/MarkoMilos/Paginate)
